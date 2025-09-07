@@ -1,2 +1,2 @@
-admin:admin enable
-johnpork:1234 enable
+admin:admin disable
+johnpork:1234 disable
